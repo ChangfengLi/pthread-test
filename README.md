@@ -1,4 +1,6 @@
 # pthread-test
+## 参考
+https://zhangxiaoya.github.io/2015/05/15/multi-thread-of-c-program-language-on-linux/
 ## 函数
 ```C
 //创建线程
